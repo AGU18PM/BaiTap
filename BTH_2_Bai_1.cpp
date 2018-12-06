@@ -163,3 +163,16 @@ bool PhanSo::operator >=(PhanSo a){
 	return 1;
 	return 0;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+asdsadsada[ldkpksajdklpasjdlksmdkpaldnlasdmsadnasidhsbnd]
